@@ -57,6 +57,33 @@
   *Hong Kong (3 secondary schools, n=653, ages 13–19, citing an earlier 5,609-person survey by Chung et al., 2004): 68.7% of secondary school girls had dysmenorrhea; 93.2% of those affected had never sought medical care; 82% did not self-medicate; dysmenorrhea was significantly associated with lower HRQoL (role-physical, bodily pain, general health, social functioning). Global adolescent prevalence reported in the literature ranges 20–90%.*
   来源 / Source: Wong et al., 2018, *Reproductive Health*, DOI: [10.1186/s12978-018-0540-5](https://doi.org/10.1186/s12978-018-0540-5)
 
+## B2. 偏头痛/头痛 + 反复胃痛腹痛患病率 / Migraine, Headache & Recurring Abdominal Pain Prevalence（✅ 已核实 — 2026-09-11 新增）
+
+> 这一节是缺口清单第 1 条检索的结果。产品三大目标场景里，此前只覆盖了痛经（B 节），本节补上另外两类：头痛（偏头痛/紧张型头痛）和反复胃痛腹痛（功能性消化不良 FD / 肠易激综合征 IBS）。**注意：目前没有找到香港本地的头痛或功能性腹痛患病率调查，香港数字仍然是缺口。**
+
+**偏头痛 / 头痛（Migraine / Headache）**
+
+- **中国（偏头痛）**：系统综述+荟萃分析（18 项研究，1988–2023 年文献，万方/CNKI/PubMed/Medline）——中国人群偏头痛合并患病率 **6.1%**（95% CI 4.1–8.6%）；紧张型头痛（TTH）**13.4%**（95% CI 7.2–21.2%）。时间趋势：偏头痛从 1988–1999 年的 1.3% 升至 2000–2023 年的 **7.0%**（4.9–9.4%）；TTH 从 5.0% 升至 13.2%。女性患病率高于男性。
+  *Systematic review + meta-analysis (18 studies, 1988–2023, Chinese & English databases): pooled migraine prevalence in China 6.1% (95% CI 4.1–8.6%); tension-type headache 13.4% (95% CI 7.2–21.2%). Migraine rose from 1.3% (1988–1999) to 7.0% (2000–2023); TTH from 5.0% to 13.2%. Both higher in females.*
+  来源 / Source: Zhang et al., 2025, *Neuroepidemiology*, DOI: [10.1159/000543086](https://doi.org/10.1159/000543086)（无撤稿/更正通知 / no editorial notices）
+
+- **全球大学生（偏头痛，最贴近产品目标人群）**：系统综述+荟萃分析（92 项研究 meta-analysed，103 项叙述综述，12 个数据库至 2021 年 8 月）——大学生偏头痛合并患病率 **19%**（95% CI 16–22%）；**女性 23%**（19–27%）、男性 12%（9–15%）；**亚洲 16%**（13–20%）。作者指出大学生患病率高于一般人群（约 14%）。
+  *SR/MA of university students (92 studies meta-analysed, 12 databases to Aug 2021): pooled migraine prevalence 19% (95% CI 16–22%); females 23%, males 12%; Asia 16% (13–20%). Authors note student prevalence exceeds the general population (~14%).*
+  来源 / Source: Flynn et al., 2022, *European Journal of Pain*, DOI: [10.1002/ejp.2047](https://doi.org/10.1002/ejp.2047)（无撤稿/更正通知 / no editorial notices）
+
+**反复胃痛腹痛（功能性消化不良 FD / 肠易激综合征 IBS）**
+
+- **全球（功能性消化不良 FD）**：系统综述+荟萃分析（44 项研究、256,915 人、40 国、1990–2022）——全球合并患病率 **8.4%**（95% CI 7.4–9.5%）；按诊断标准：Rome I 最高 11.9%，**Rome IV 最低 6.8%**（5.8–7.9%）；女性 9.0% vs 男性 7.0%；发展中国家 9.1% vs 发达国家 8.0%；长期趋势从 1990–2002 年的 12.4% 下降至 2013–2020 年的 7.3%。
+  *SR/MA (44 studies, n=256,915, 40 countries): global pooled FD prevalence 8.4% (95% CI 7.4–9.5%); Rome I 11.9% (highest) vs Rome IV 6.8% (lowest); women 9.0% vs men 7.0%; developing 9.1% vs developed 8.0%; declining trend 12.4% → 7.3% over 1990–2020.*
+  来源 / Source: Kwon et al., 2024, *Scientific Reports*, DOI: [10.1038/s41598-024-54716-3](https://doi.org/10.1038/s41598-024-54716-3)（无撤稿/更正通知 / no editorial notices）
+
+- **全球（肠易激综合征 IBS）**：系统综述+荟萃分析（*Lancet Gastroenterology & Hepatology*）——按 **Rome III** 标准全球合并患病率 **9.2%**（95% CI 7.6–10.8%；53 项研究、38 国、395,385 人）；按更严格的 **Rome IV** 标准降至 **3.8%**（95% CI 3.1–4.5%；6 项研究、34 国、82,476 人），两者置信区间不重叠。女性 12.0% vs 男性 8.6%（OR 1.46，95% CI 1.33–1.59）。即使标准相同，各国患病率差异仍 <1% 到 >25%。
+  *SR/MA (Lancet Gastroenterology & Hepatology): global pooled IBS prevalence 9.2% under Rome III (95% CI 7.6–10.8%; 53 studies, 38 countries, n=395,385) vs 3.8% under the stricter Rome IV (95% CI 3.1–4.5%; 6 studies, 34 countries, n=82,476) — non-overlapping CIs. Women 12.0% vs men 8.6% (OR 1.46). Even with identical criteria, prevalence varies <1% to >25% across countries.*
+  来源 / Source: Oka et al., 2020, *The Lancet Gastroenterology & Hepatology*, DOI: [10.1016/S2468-1253(20)30217-X](https://doi.org/10.1016/S2468-1253(20)30217-X)
+  ⚠️ 引用注意：scite 显示该文有一条 2020-12 erratum（DOI 10.1016/S2468-1253(20)30349-6）+ 两条 comment。经核查 erratum 内容（PubMed 记录 + 期刊官网），**修正的是 Rome IV IBS-D 亚型图的 I² 统计量（98.1%→61.6%），不影响上述 Rome III 9.2% / Rome IV 3.8% / 性别比等主结果数字**，可以安全引用主结果。多条引用本研究的文献（如 10.3390/ijerph182312324、10.1007/s10620-022-07401-2）均引用 9.2%/3.8% 这一对数字，交叉印证一致。
+
+**仍未覆盖的子缺口 / Remaining sub-gap**：香港本地的头痛或功能性腹痛患病率调查未找到（检索到的最接近的是一项香港中国女性生活方式与偏头痛的横断面关联研究，非患病率数据，未纳入）。Slide 04 如需香港数字，头痛/胃痛两类仍需借用中国全国或全球数据，或明确标注"香港本地数据暂缺"。
+
 ## C. 数字疼痛护理参与度相关数据 / Digital Pain-Care Engagement Data（✅ 已核实，与"care fragmented"论点关联较弱，仅供参考）
 
 - 约 **10%** 数字疼痛干预研究完全不报告任何系统使用或自报参与度数据，绝大多数仅给出粗略指标。
@@ -163,7 +190,7 @@
 
 ## 核查提示 / Fact-check checklist
 
-- [ ] A/B/C 每条数字与原始综述文件（`Pain is unavoidable...md`）里的原文一致
-- [ ] A/B/C 每条 DOI 可以正常解析打开（https://doi.org/{DOI}）
+- [ ] A/B/B2/C/E/F 每条数字与原始综述文件（`Pain is unavoidable...md`）里的原文一致
+- [ ] A/B/B2/C/E/F 每条 DOI 可以正常解析打开（https://doi.org/{DOI}）
 - [ ] D 类内容目前**不要**放进 pitch 草稿，等完成检索后再决定
-- [ ] E 类内容如果要在 pitch 里呈现，标注为"团队分析/框架"而不是"研究显示"
+- [ ] G 类内容如果要在 pitch 里呈现，标注为"团队分析/框架"而不是"研究显示"
