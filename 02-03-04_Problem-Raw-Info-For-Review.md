@@ -120,7 +120,23 @@
   - 97 名风湿科患者 28 天研究：**最痛时刻（peak）和最后时刻（end）**的疼痛不成比例地影响当天回忆，造成小而稳定的偏差。*Peak and end momentary pain disproportionately influence same-day recall, creating a small but reliable bias (n=97, 28 days).* 来源 / Source: Schneider et al., 2011, *The Journal of Pain*, DOI: [10.1016/j.jpain.2010.07.001](https://doi.org/10.1016/j.jpain.2010.07.001)
   - 综述：回顾性症状报告系统性**高估**实际经历，回忆间隔越长偏差越大，焦虑和灾难化思维放大高估。*Review: retrospective symptom reports systematically overestimate averaged momentary assessments; longer retention intervals increase bias; anxiety and catastrophizing amplify overreporting.* 来源 / Source: Van den Bergh & Walentynowicz, 2016, *Current Opinion in Psychiatry*, DOI: [10.1097/yco.0000000000000267](https://doi.org/10.1097/yco.0000000000000267)
 
-## F. 团队自己的产品框架 / Team's Own Product Framing（⚠️ 非文献来源）来源 / Source: `01-prepare/ai-extension-1st-edition-plan.md` §二.2 / §二.3（团队内部产品构思文档，非学术文献）
+## F. 疼痛就医路径碎片化 / Fragmented Pain Care（✅ 已核实 — 2026-09-11 新增）
+
+> 支撑 Slide 02 第二句论点 "pain care is fragmented"。证据集中在：确诊前辗转多名医生 / 长期误诊或无法确诊 / 多次就诊却重复检查。
+
+- **纤维肌痛（慢性广泛性疼痛）**：8 国 800 名患者调查——从首次就诊到确诊平均 **2.3 年**、期间平均看了 **3.7 位不同医生**；38% 的患者延迟就诊是因为"怕不被认真对待"。*8-country survey (n=800): mean 2.3 years and 3.7 different physicians from first presentation to diagnosis; 38% delayed seeking care for fear of not being taken seriously.* 来源 / Source: Choy et al., 2010, *BMC Health Services Research*, DOI: [10.1186/1472-6963-10-102](https://doi.org/10.1186/1472-6963-10-102)
+  - 医师端佐证：53% 的医生表示诊断纤维肌痛有困难，54% 认为自己受训不足。*Physician-side corroboration: 53% of physicians report difficulty diagnosing fibromyalgia, 54% report inadequate training.* 来源 / Source: Perrot et al., 2012, *BMC Health Services Research*, DOI: [10.1186/1472-6963-12-356](https://doi.org/10.1186/1472-6963-12-356)
+
+- **原发性头痛（偏头痛等）**：日本全国医保理赔数据库 336,596 名患者——初诊时 **28.5% 无法确诊**；3–5 年后随访，超过 **40%** 的患者被给出**不同**诊断。既往研究：仅 **11.6%** 的偏头痛患者被正确诊断；丛集性头痛确诊平均需要 **7.3 年**。文献指出患者常"频繁就诊多名医生，但仍无法确诊，后续医生重复做前一个医生的检查"。*Japanese national claims database (n=336,596): 28.5% had an unconfirmed diagnosis at initial visit; over 40% received a different diagnosis at 3–5 year follow-up. Prior studies: only 11.6% of migraine patients correctly diagnosed; mean 7.3 years to correct cluster-headache diagnosis. Patients frequently consult numerous doctors yet remain undiagnosed, with later physicians duplicating earlier tests.* 来源 / Source: Tatsuno et al., 2025, *Cureus*, DOI: [10.7759/cureus.85005](https://doi.org/10.7759/cureus.85005)
+
+- **子宫内膜异位症（继发性痛经的主要病因之一）**：
+  - 法国 ComPaRe 队列（n=6,949）：平均确诊延迟 **10 年**（子宫腺肌病 11 年）；每多看一位健康专业人士，延迟增加 0.3 年。*French ComPaRe cohort (n=6,949): mean diagnostic delay 10 years (11 for adenomyosis); each additional health professional consulted before diagnosis adds 0.3 years of delay.* 来源 / Source: Breton et al., 2025, *Journal of Women's Health*, DOI: [10.1177/15409996251380129](https://doi.org/10.1177/15409996251380129)
+  - 青少年患者（n=25，≤21 岁）：从症状出现到确诊平均 **22.8 个月**，期间中位看了 **3 位医生**（范围 1–12 位）。*Adolescents (n=25, ≤21y): mean 22.8 months from symptom onset to diagnosis, median 3 physicians seen (range 1–12).* 来源 / Source: Dun et al., 2015, *JSLS*, DOI: [10.4293/jsls.2015.00019](https://doi.org/10.4293/jsls.2015.00019)
+  - 系统综述：确诊延迟与"获得诊断所需的医生就诊次数"显著相关（p<0.001）；全科医生常将症状"正常化"、对疾病认知不足。*Systematic review: diagnostic delay is significantly associated with the number of doctor visits needed to get a diagnosis (p<0.001); GPs often normalize symptoms and lack knowledge.* 来源 / Source: Harzif et al., 2024, *J Endometriosis and Pelvic Pain Disorders*, DOI: [10.1177/22840265241291120](https://doi.org/10.1177/22840265241291120)
+
+- **术后"辗转多医生开药"（doctor shopping）**：骨科创伤人群中术后 doctor shopping（从多位医生处获取处方）患病率 **20.8%**；这些患者的麻醉药处方量、用药时长、每日吗啡当量剂量均显著更高。*20.8% prevalence of postoperative doctor shopping in the orthopaedic trauma population; these patients had significantly more narcotic prescriptions, longer duration, and higher daily morphine-equivalent dose.* 来源 / Source: Morris et al., 2014, *Journal of Bone and Joint Surgery*, DOI: [10.2106/jbjs.m.01114](https://doi.org/10.2106/jbjs.m.01114)
+
+## G. 团队自己的产品框架 / Team's Own Product Framing（⚠️ 非文献来源）来源 / Source: `01-prepare/ai-extension-1st-edition-plan.md` §二.2 / §二.3（团队内部产品构思文档，非学术文献）
 
 - **疼痛三特征 / The 3 traits of pain**：
   - **Unavoidable 难以完全避免**：头痛、胃痛和痛经都可能反复发生，用户不能保证每次都提前预防。
