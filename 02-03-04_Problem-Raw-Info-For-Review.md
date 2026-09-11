@@ -91,9 +91,36 @@
 - 其余检索方向（"老年慢性疼痛+抑郁共病"、"痛经+catastrophizing/somatization/quality of life"）也只停留在搜索结果阶段，未整理。
   *Other search directions ("chronic pain + depression in older adults", "dysmenorrhea + catastrophizing/somatization/quality of life") also only reached the raw-search-results stage and were never synthesized.*
 
-## E. 团队自己的产品框架 / Team's Own Product Framing（⚠️ 非文献来源）
+## E. 疼痛当下难以记录 / Hard to Track in the Moment（✅ 已核实 — 2026-09-11 新增）
 
-来源 / Source: `01-prepare/ai-extension-1st-edition-plan.md` §二.2 / §二.3（团队内部产品构思文档，非学术文献）
+> 这一节是缺口清单第 4 条检索的结果，已核实，附 DOI。支撑 Slide 03 "The Pain Moment" 的核心逻辑。
+
+- **纸日记依从性造假（最有冲击力的数字）**：80 名慢性疼痛患者对照试验，纸日记夹内藏光传感器记录真实开合时间。患者**自报**依从率 **90%**，但**实际**依从率仅 **11%**（放宽至 90 分钟窗口也仅 20%）；**电子日记**实际依从率 **94%**；32% 的研究日纸日记从未被打开，75% 的患者至少有一天"囤积式"事后补填。
+  *Landmark trial (n=80 chronic pain patients) with a photosensor hidden in the paper diary binder: self-reported compliance 90% vs. actual compliance 11% (20% with a 90-min window); electronic diary actual compliance 94%; on 32% of study days the paper diary was never opened, and 75% of patients hoarded entries on at least one day.*
+  来源 / Source: Stone, 2002, *BMJ*, DOI: [10.1136/bmj.324.7347.1193](https://doi.org/10.1136/bmj.324.7347.1193)
+
+- **纸日记"零缺失"≠真实记录**：随机交叉试验（24 名慢性癌症/非癌症疼痛患者，纸 vs 电子 PalmPilot 日记各 2 周）。纸日记表面缺失 **0%**，但 **42%（10/24）的患者自认忘记并事后补填**；电子日记缺失 **8%**（真实缺失）。**75%（18/24）认为电子日记用得更规律（P<0.001），83%（20/24）更愿意再用电子版（P=0.001），53% 认为电子版帮助服药更规律（P=0.012）**；两版记录的疼痛强度无显著差异。
+  *Randomized crossover trial (n=24): paper diary showed 0% missing values, but 42% (10/24) admitted forgetting and retrospectively fabricating entries; electronic diary had 8% genuine missing values. 75% reported using the electronic diary more regularly (P<0.001), 83% preferred it (P=0.001), 53% said it supported more regular medication intake (P=0.012); recorded pain intensity did not differ between versions.*
+  来源 / Source: Gaertner et al., 2004, *Journal of Pain and Symptom Management*, DOI: [10.1016/j.jpainsymman.2003.12.017](https://doi.org/10.1016/j.jpainsymman.2003.12.017)（关联的 2004 erratum 已核实——修正的是同刊另一篇过敏测试文章，不影响本篇数字 / the linked 2004 erratum was checked and corrects a different article in the same issue, not this one）
+
+- **电子 EMA 依从率并非 100%**：系统综述（32 个慢性疼痛 EMA 项目）平均完成率 **86.0%**，但单个项目范围 **29.1%–99.0%**；近 1/3 研究根本不报告完成率，且可能存在发表偏倚导致完成率被高估。
+  *Systematic review of 32 chronic-pain EMA projects: mean completion rate 86.0%, but individual projects ranged 29.1%–99.0%; nearly one-third of studies did not report completion rates at all, and publication bias may inflate reported rates.*
+  来源 / Source: May et al., 2018, *The Journal of Pain*, DOI: [10.1016/j.jpain.2018.01.006](https://doi.org/10.1016/j.jpain.2018.01.006)
+
+- **提示越接近"当下"，依从率越低**：慢性疼痛患者（大麻/阿片使用者，n≈133），每日日记完成率 **89.7%**，但"过去一小时"即时调查完成率仅 **63.3%**；晚上 8–11 点提示的完成率（57.0%）显著低于早晨（65.4%，OR=0.70, P<.001）。
+  *In chronic pain patients: daily-diary completion 89.7%, but past-hour (near-real-time) survey completion only 63.3%; prompts at 8–11 PM had significantly lower completion (57.0%) than morning prompts (65.4%, OR=0.70, P<.001).*
+  来源 / Source: Joo et al., 2024, *Internet Interventions*, DOI: [10.1016/j.invent.2024.100784](https://doi.org/10.1016/j.invent.2024.100784)
+
+- **降低交互负担本身才是提高依从率的关键**：智能手表"微交互" EMA（μEMA，所有问题一眼就能答）应答率显著高于标准 EMA；而单纯把手机问卷搬到手表上**并不能**提高依从性。
+  *Smartwatch microinteraction EMA (μEMA — all questions answerable "at a glance") achieved significantly higher response rates than standard EMA; merely moving a phone survey onto a watch did NOT improve compliance — reducing interaction burden itself is the key lever.*
+  来源 / Source: Ponnada et al., 2017, *Proc. ACM IMWUT*, DOI: [10.1145/3130957](https://doi.org/10.1145/3130957)
+
+- **事后回忆 ≠ 当下体验（记忆偏差）**：
+  - 每周回忆的疼痛程度受当下疼痛**变异性**影响，波动越大的人回忆值越偏离实际平均值（peak/salience 记忆启发式）。*Recall of weekly pain is biased by the variability of momentary pain (peak/salience memory heuristic).* 来源 / Source: Stone et al., 2005, *PSPB*, DOI: [10.1177/0146167205275615](https://doi.org/10.1177/0146167205275615)
+  - 97 名风湿科患者 28 天研究：**最痛时刻（peak）和最后时刻（end）**的疼痛不成比例地影响当天回忆，造成小而稳定的偏差。*Peak and end momentary pain disproportionately influence same-day recall, creating a small but reliable bias (n=97, 28 days).* 来源 / Source: Schneider et al., 2011, *The Journal of Pain*, DOI: [10.1016/j.jpain.2010.07.001](https://doi.org/10.1016/j.jpain.2010.07.001)
+  - 综述：回顾性症状报告系统性**高估**实际经历，回忆间隔越长偏差越大，焦虑和灾难化思维放大高估。*Review: retrospective symptom reports systematically overestimate averaged momentary assessments; longer retention intervals increase bias; anxiety and catastrophizing amplify overreporting.* 来源 / Source: Van den Bergh & Walentynowicz, 2016, *Current Opinion in Psychiatry*, DOI: [10.1097/yco.0000000000000267](https://doi.org/10.1097/yco.0000000000000267)
+
+## F. 团队自己的产品框架 / Team's Own Product Framing（⚠️ 非文献来源）来源 / Source: `01-prepare/ai-extension-1st-edition-plan.md` §二.2 / §二.3（团队内部产品构思文档，非学术文献）
 
 - **疼痛三特征 / The 3 traits of pain**：
   - **Unavoidable 难以完全避免**：头痛、胃痛和痛经都可能反复发生，用户不能保证每次都提前预防。
